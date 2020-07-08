@@ -1,3 +1,6 @@
 node_modules/
 *.pdf
 *.txt
+*.json
+*.lock
+*.babelrc
