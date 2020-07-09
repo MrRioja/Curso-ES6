@@ -1,0 +1,6 @@
+- yarn init na pasta do projeto
+- yarn add @babel/cli, @babel/preset-env, @babel/core
+- criar .gitignores e adc o node_modules (node_modules/)
+- arquivo de configuração do babel (.babelrc)
+- criar index.html e main.js
+- adicionar scripts ("dev": "babel ./main.js -o ./bundle.js -w") no package.json
