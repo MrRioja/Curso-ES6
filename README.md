@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Starter&message=ES06&color=blueviolet&style=for-the-badge"/>
   <img src="https://img.shields.io/github/license/MrRioja/Curso-ES6?color=blueviolet&logo=License&style=for-the-badge"/>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/Curso-ES6?color=blueviolet&logo=TypeScript&logoColor=white&style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MrRioja/Curso-ES6?color=blueviolet&logo=JavaScript&logoColor=white&style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MrRioja/Curso-ES6?color=blueviolet&style=for-the-badge">
 </p>
 <br>
